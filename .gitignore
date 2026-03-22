@@ -1,0 +1,17 @@
+# Runtime data
+data/logs/
+data/in_dat/
+data/out_dat/
+data/rescue/
+
+# Runtime files
+runtime/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

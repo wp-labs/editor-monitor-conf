@@ -1,0 +1,9 @@
+[[connectors]]
+allow_override = ["target", "tag", "fields"]
+id = "arrow_tcp_sink"
+type = "arrow-ipc"
+
+[connectors.params]
+fields = []
+tag = "default"
+target = "tcp://127.0.0.1:9800"
