@@ -41,6 +41,11 @@ target = "*"
 [semantic]
 enabled = false
 
+[project_remote]
+enabled =  true
+repo = "https://github.com/wp-labs/editor-monitor-conf.git"
+init_version = "v0.1.0"
+
 [admin_api]
 enabled = false
 bind = "127.0.0.1:19090"
