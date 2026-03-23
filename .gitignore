@@ -12,6 +12,10 @@ runtime/
 .vscode/
 *.swp
 
+
 # OS
 .DS_Store
 Thumbs.db
+.run
+.run.gxl
+.report
