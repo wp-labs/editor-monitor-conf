@@ -10,8 +10,8 @@ file = "gen*.dat"
 
 [[sources]]
 key = "syslog_1"
-enable = false
-connect = "syslog_tcp_src"
+enable = true
+connect = "syslog_src"
 tags = []
 
 [sources.params]

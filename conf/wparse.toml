@@ -44,10 +44,10 @@ enabled = false
 [project_remote]
 enabled =  true
 repo = "https://github.com/wp-labs/editor-monitor-conf.git"
-init_version = "v0.1.0"
+init_version = "v0.1.1"
 
 [admin_api]
-enabled = false
+enabled = true
 bind = "127.0.0.1:19090"
 request_timeout_ms = 15000
 max_body_bytes = 4096
