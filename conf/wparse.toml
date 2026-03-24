@@ -44,7 +44,7 @@ enabled = false
 [project_remote]
 enabled =  true
 repo = "https://github.com/wp-labs/editor-monitor-conf.git"
-init_version = "v0.1.1"
+init_version = "v0.1.2"
 
 [admin_api]
 enabled = true
