@@ -51,7 +51,7 @@ init_version = "0.1.0"
 
 [project_remote.infra]
 repo = "https://github.com/wp-labs/editor-monitor-conf.git"
-init_version = "0.1.4"
+init_version = "0.1.6"
 
 [admin_api]
 enabled = true
