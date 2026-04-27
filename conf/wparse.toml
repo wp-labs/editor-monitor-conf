@@ -43,8 +43,15 @@ enabled = false
 
 [project_remote]
 enabled =  true
+repo = ""
+
+[project_remote.models]
+repo = "https://github.com/wp-labs/wp-rule.git"
+init_version = "0.1.0"
+
+[project_remote.infra]
 repo = "https://github.com/wp-labs/editor-monitor-conf.git"
-init_version = "v0.1.2"
+init_version = "0.1.4"
 
 [admin_api]
 enabled = true
